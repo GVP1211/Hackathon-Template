@@ -2,7 +2,6 @@
 
 import { NavLink } from "react-router";
 import { Button } from "./components/ui/button"
-import "./index.css"
 
 function LandingPage() {
     return (
